@@ -1,13 +1,14 @@
 .App {
   margin: 0;
   padding: 0;
-  /*text-align: center;*/
+  text-align: center;
   display : flex;
   flex-direction: column;
   background-color: #1D1C22;
   min-height: 100vh;
 }
 .container{
+  margin: auto;
   background-color: #C1BFD5;
   width: 30%;
 }
