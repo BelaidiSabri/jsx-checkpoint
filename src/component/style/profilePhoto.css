@@ -1,0 +1,9 @@
+img {
+    margin: 30px;
+    width: 300px;
+    height: auto;
+    border-style: solid ;
+    border-color: black;
+    border-width: 5px;
+
+}
